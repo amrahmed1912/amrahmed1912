@@ -1,15 +1,16 @@
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  
-
-</div>
-
----
 
 <h1 align="center">Hi , I'm Eng. Amr Ahmed 👋</h1>
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=2ECC71&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Nice+to+meet+you+%F0%9F%91%8B">
+  </a>
+</p>
+
+
+---
 
 ## 👨‍💻 About Me
 - 🏫 I am a student at the Faculty of Information Technology and Computer Science, Sinai University.
