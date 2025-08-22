@@ -1,18 +1,9 @@
-<h1 align="center">Hi, I'm Amr Ahmed 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | Learning Django & JavaScript | Open Source Enthusiast</h3>
+<h1 align="center">👋 Amr Ahmed </h1>
+
 
 ---
+<h3 align="center">Hi! I’m a passionate programmer with a strong interest in learning and creating impactful software. I enjoy working on projects that solve real challenges and help me grow as a developer. My mission is to sharpen my coding skills and become an expert in software development.</h3>
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Full-Stack Web Development**
-- 🌱 Learning **Django & JavaScript**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, C++, and Web Development**
-- ⚡ Fun fact: **I love solving programming challenges!**
-
----
-
-## 📫 Connect With Me
 <p align="center">
   <a href="mailto:amrahmedsaydee@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amr-ahmed-sayed"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,16 +11,21 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 🛠 Tech Stack
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
