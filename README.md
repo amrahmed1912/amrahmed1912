@@ -6,12 +6,23 @@
 
 ---
 
-<h1 align="center">👋 Amr Ahmed </h1>
+<h1 align="center">Hi , I'm Eng. Amr Ahmed 👋</h1>
 
 ---
-<h4 align="center">Hi! I’m a passionate programmer with a strong interest in learning and creating impactful software. I enjoy working on projects that solve real challenges and help me grow as a developer. My mission is to sharpen my coding skills and become an expert in software development.</h4>
 
-<p align="center">
+
+## 👨‍💻 About Me
+- 🏫 I am a student at the Faculty of Information Technology and Computer Science, Sinai University.
+- 🧑‍💻 I love using software to solve problems.**
+- 🧑‍🎓 I am currently learning: Artificial Intelligence and Machine Learning.**
+- 💻 I am passionate about competitive programming and problem-solving.**
+- 🤔 Available for: Internships or entry-level positions.**
+- 🤓 I am always looking to learn new technologies and improve my skills.
+
+---
+
+## 📫 Connect With Me
+<p align="left">
   <a href="mailto:amrahmedsaydee@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amr-ahmed-sayed"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
