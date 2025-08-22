@@ -4,9 +4,9 @@
 
 </div>
 
+---
 
 <h1 align="center">👋 Amr Ahmed </h1>
-
 
 ---
 <h4 align="center">Hi! I’m a passionate programmer with a strong interest in learning and creating impactful software. I enjoy working on projects that solve real challenges and help me grow as a developer. My mission is to sharpen my coding skills and become an expert in software development.</h4>
@@ -33,6 +33,10 @@
 ### Frameworks & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
