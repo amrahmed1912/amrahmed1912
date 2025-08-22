@@ -1,14 +1,12 @@
-
-<h1 align="center">Hi , I'm Eng. Amr Ahmed 👋</h1>
-
----
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=2ECC71&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Nice+to+meet+you+%F0%9F%91%8B">
   </a>
 </p>
 
+---
+
+<h1 align="center">Hi , I'm Eng. Amr Ahmed </h1>
 
 ---
 
