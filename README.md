@@ -19,21 +19,21 @@
 - 🤓 I am always looking to learn new technologies and improve my skills.
 
 ---
-
 ##  Connect with me
-<p align="left">
-  <a href="mailto:amrahmedsaydee@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/amr-ahmed"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/amr-ahmed-sayed"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="20" align="center" /> Facebook](https://www.facebook.com/amr.ahmed.722092)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" align="center" /> LinkedIn](https://www.linkedin.com/in/amr-ahmed-sayed)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" align="center" /> Email](mailto:amrahmedsayde@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![java](https://skillicons.dev/icons?i=java)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,12 +42,14 @@
 
 
 ### Frameworks & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48"/>
+ 
+</p>
 
 ---
 
