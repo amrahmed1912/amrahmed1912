@@ -56,34 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amr-ahmed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=amr-ahmed&theme=react&border=61dafb&hide_border=true" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ahmed&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-*(Coming soon...)*
-
----
-
-## 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/amr-ahmed/project-1"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amr-ahmed&repo=project-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/amr-ahmed/project-2"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amr-ahmed&repo=project-2&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br>
-<h4 align="center">
-  <a href="https://github.com/amr-ahmed?tab=repositories" title="Show More Repositories">🔍 Show More 🔍</a>
-</h4>
-
----
-
 ## ✨ Profile Views & Followers
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amr-ahmed&color=blue&style=flat-square" />
