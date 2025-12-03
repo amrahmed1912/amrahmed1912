@@ -21,19 +21,24 @@
 ---
 ##  Connect with me
 <p align="left">
+  
+  <!-- Facebook -->
   <a href="https://www.facebook.com/amr.ahmed.722092">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48"/>
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/amr_ahmed_1912" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/>
   </a>
-
+  
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/amr-ahmed-sayed" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
   </a>
 
-  <a href="mailto:amrahmedsayde@gmail.com" title="Email">
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amrahmedsayde@gmail.com" title="Email" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48"/>
   </a>
 </p>
