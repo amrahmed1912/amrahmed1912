@@ -20,39 +20,53 @@
 
 ---
 ##  Connect with me
+<p align="left">
+  <a href="https://www.facebook.com/amr.ahmed.722092">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48"/>
+  </a>
 
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="20" align="center" /> Facebook](https://www.facebook.com/amr.ahmed.722092)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" align="center" /> LinkedIn](https://www.linkedin.com/in/amr-ahmed-sayed)
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" align="center" /> Email](mailto:amrahmedsayde@gmail.com)
+  <a href="https://www.instagram.com/amr_ahmed_1912" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/amr-ahmed-sayed" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
+  </a>
+
+  <a href="mailto:amrahmedsayde@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![java](https://skillicons.dev/icons?i=java)
-
-
-
-<!-- Web -->
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+### Programming Languages & Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
+</p>
 
 ### Frameworks & Tools
 <p align="left">
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
+  </a>
+  
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48"/>
- 
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/>
+
 </p>
+
 
 ---
 
