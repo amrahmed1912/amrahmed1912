@@ -41,8 +41,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
 ### Programming Languages & Web
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
