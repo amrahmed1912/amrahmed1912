@@ -32,6 +32,11 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amrahmedsayde@gmail.com" title="Email" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48" height="48"/>
   </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/amr_ahmed005" title="Twitter" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="48" height="48"/>
+  </a>
 </p>
 
 ---
