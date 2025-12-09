@@ -69,7 +69,6 @@
 
 ---
 
-## ✨ Profile Views & Followers
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amr-ahmed&color=blue&style=flat-square" />
   <img src="https://img.shields.io/github/followers/amr-ahmed?style=social" />
