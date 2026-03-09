@@ -1,10 +1,8 @@
 
 <h1 align="center">Amr Ahmed | Software Engineer | AI & Data Enthusiast</h1>
-<p align="center">
+<!-- <p align="center">
   Front-End Developer | IT &CS Student @SU ’29 | Learning AI & Data
-</p>
-
----
+</p> -->
 
 ## 👨‍💻 About Me
 - 🏫 Student at the Faculty of Information Technology & Computer Science, Sinai University  
